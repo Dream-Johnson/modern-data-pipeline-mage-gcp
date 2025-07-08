@@ -66,7 +66,7 @@ modern-data-pipeline-mage-gcp/
 
 
 ![Dashboard Screenshot](looker_dashboard/dashboard_screenshot.png)
-![ETL Screenshot](looker_dashboard/dashboard_screenshot.png)
+![ETL Screenshot](mage_files/ETL_screenshot)
 
 ---
 
